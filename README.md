@@ -35,17 +35,20 @@ The console will show any errors in your sketch.
 
 | File                                        | Source                                            |
 | ------------------------------------------- | ------------------------------------------------- |
-| `assets/sounds/punch_1.wav` – `punch_9.wav` [3]| Punch SFX — OpenGameArt.org|
-| `assets/sounds/win.mp3` [1] | Sourced from Google|
-| `assets/sounds/background.mp3` | Matthew Pablo, Space Dimensions — OpenGameArt.org|
-| `assets/sounds/load.mp3` | Sourced from Google|
+| `assets/sounds/punch_1.wav` – `punch_9.wav` [5]| Punch SFX — OpenGameArt.org|
+| `assets/sounds/win.mp3` [3] | Sourced from Google|
+| `assets/sounds/background.mp3` [4]| Matthew Pablo, Space Dimensions — OpenGameArt.org|
+| `assets/sounds/load.mp3` [2]| Sourced from Google|
+| `assets/images/fantasybackground.jpg` [1]| Sourced from Google|
 
 ## References
 
-[1] Anon.Retrieved May 27, 2026 from https://pixabay.com/sound-effects/search/victory/ 
+[1] Anon.Retrieved May 27, 2026a from https://www.behance.net/gallery/54870981/Background-for-the-game-Tower-Kingdom?locale=en_US 
 
-Pablo, Matthew. n.d. _Space Dimensions (Techno Version)_. OpenGameArt.org. Retrieved May 1, 2026, from https://opengameart.org/content/space-dimensions-techno-version
+[2] Anon.Retrieved May 27, 2026a from https://pixabay.com/sound-effects/cinematic-music-sketches-10-cinematic-cello-arpeggio-sketch-116187/ 
 
-[3] Punch SFX. n.d. OpenGameArt.org. Retrieved May 1, 2026, from https://opengameart.org/content/punch-sfx
+[3] Anon.Retrieved May 27, 2026 from https://pixabay.com/sound-effects/search/victory/ 
 
-[4] 
+[4] Pablo, Matthew. n.d. _Space Dimensions (Techno Version)_. OpenGameArt.org. Retrieved May 1, 2026, from https://opengameart.org/content/space-dimensions-techno-version
+
+[5] Punch SFX. n.d. OpenGameArt.org. Retrieved May 1, 2026, from https://opengameart.org/content/punch-sfx
