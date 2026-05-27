@@ -35,20 +35,24 @@ The console will show any errors in your sketch.
 
 | File                                        | Source                                            |
 | ------------------------------------------- | ------------------------------------------------- |
-| `assets/sounds/punch_1.wav` – `punch_9.wav` [5]| Punch SFX — OpenGameArt.org|
-| `assets/sounds/win.mp3` [3] | Sourced from Google|
-| `assets/sounds/background.mp3` [4]| Matthew Pablo, Space Dimensions — OpenGameArt.org|
-| `assets/sounds/load.mp3` [2]| Sourced from Google|
-| `assets/images/fantasybackground.jpg` [1]| Sourced from Google|
+| `assets/sounds/punch_1.wav` – `punch_9.wav` [6]| Punch SFX — OpenGameArt.org|
+| `assets/sounds/win.mp3` [4] | Sourced from Google|
+| `assets/sounds/background.mp3` [5]| Matthew Pablo, Space Dimensions — OpenGameArt.org|
+| `assets/sounds/load.mp3` [3]| Sourced from Google|
+| `assets/images/fantasybackground.jpg` [2]| Sourced from Google|
+| `assets/images/arena.jpg` [1]| Sourced from Google|
+
 
 ## References
 
-[1] Anon.Retrieved May 27, 2026a from https://www.behance.net/gallery/54870981/Background-for-the-game-Tower-Kingdom?locale=en_US 
+[1] Anon. Fantasy backgrounds set #2. Retrieved May 27, 2026a from https://moon-t.com/projects/o2gm5J?album_id=13972844 
 
-[2] Anon.Retrieved May 27, 2026a from https://pixabay.com/sound-effects/cinematic-music-sketches-10-cinematic-cello-arpeggio-sketch-116187/ 
+[2] Anon.Retrieved May 27, 2026a from https://www.behance.net/gallery/54870981/Background-for-the-game-Tower-Kingdom?locale=en_US 
 
-[3] Anon.Retrieved May 27, 2026 from https://pixabay.com/sound-effects/search/victory/ 
+[3] Anon.Retrieved May 27, 2026a from https://pixabay.com/sound-effects/cinematic-music-sketches-10-cinematic-cello-arpeggio-sketch-116187/ 
 
-[4] Pablo, Matthew. n.d. _Space Dimensions (Techno Version)_. OpenGameArt.org. Retrieved May 1, 2026, from https://opengameart.org/content/space-dimensions-techno-version
+[4] Anon.Retrieved May 27, 2026 from https://pixabay.com/sound-effects/search/victory/ 
 
-[5] Punch SFX. n.d. OpenGameArt.org. Retrieved May 1, 2026, from https://opengameart.org/content/punch-sfx
+[5] Pablo, Matthew. n.d. _Space Dimensions (Techno Version)_. OpenGameArt.org. Retrieved May 1, 2026, from https://opengameart.org/content/space-dimensions-techno-version
+
+[6] Punch SFX. n.d. OpenGameArt.org. Retrieved May 1, 2026, from https://opengameart.org/content/punch-sfx
