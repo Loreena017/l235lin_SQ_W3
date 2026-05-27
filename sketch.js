@@ -29,6 +29,7 @@ let startSound;
 let bgMusic;
 
 let kingdomBackground; 
+let arenaBackground;
 
 // ------------------------------------------------------------
 // FIGHTER CLASS
@@ -428,7 +429,7 @@ function drawWinScreen() {
 // Draws the ground plane and dividing line.
 // ------------------------------------------------------------
 function drawArena() {
-  fill(40);
+  background(arenaBackground, 0, 0 , width, height);
   noStroke();
   rect(0, groundY, width, height - groundY);
 
