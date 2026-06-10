@@ -261,6 +261,7 @@ let groundY;
 function preload() {
   //load game background image
   kingdomBackground = loadImage("assets/images/fantasybackground.jpg");
+  arena = loadImage("assets/images/arena.png");
 
   // Load all 9 punch sounds into an array
   // A random one will be picked each time a punch lands
@@ -429,13 +430,7 @@ function drawWinScreen() {
 // Draws the ground plane and dividing line.
 // ------------------------------------------------------------
 function drawArena() {
-  background(arenaBackground, 0, 0 , width, height);
-  noStroke();
-  rect(0, groundY, width, height - groundY);
-
-  stroke(80);
-  strokeWeight(1);
-  line(0, groundY, width, groundY);
+  image(arena, 0, 0 , width, height);
 }
 
 // ------------------------------------------------------------
