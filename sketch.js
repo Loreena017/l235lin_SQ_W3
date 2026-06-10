@@ -378,7 +378,7 @@ function endGame(winnerLabel) {
 // ------------------------------------------------------------
 function drawStartScreen() {
   // Title
-  background(kingdomBackground, 0, 0 , width, height);
+  image(kingdomBackground, 0, 0, width, height);
 
   fill(255);
   textAlign(CENTER);
