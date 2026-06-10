@@ -283,7 +283,7 @@ function setup() {
   setupFighters();
 
 
-  startSound.start(); //loading screen sound
+  startSound.play(); //loading screen sound
 }
 
 // ------------------------------------------------------------
