@@ -531,25 +531,23 @@ function drawFightHUD() {
 // This is an important distinction — keyPressed() fires once
 // per keypress, keyIsDown() fires every frame the key is held.
 // ============================================================
-
 function keyPressed() {
 
-  userStartAudio();
-
-  // Start or rematch
+    userStartAudio (); // flag to indicate user interaction for audio on mobile
+  
+  // Start or rematch — only responds to ENTER
   if (keyCode === ENTER) {
     if (gameState === STATE_START || gameState === STATE_WIN) {
-      startSound.play();
       startGame();
     }
   }
 
-  // Player 1 attack (F)
+  // Player 1 attack — F key (keyCode 70)
   if (keyCode === 70 && gameState === STATE_FIGHT) {
     fighter1.startAttack(fighter2.x);
   }
 
-  // Player 2 attack (K)
+  // Player 2 attack — K key (keyCode 75)
   if (keyCode === 75 && gameState === STATE_FIGHT) {
     fighter2.startAttack(fighter1.x);
   }
