@@ -430,7 +430,7 @@ function drawWinScreen() {
 // Draws the ground plane and dividing line.
 // ------------------------------------------------------------
 function drawArena() {
-  image(arena, 0, 0 , width, height);
+  image(arenaBackground, 0, 0 , width, height);
 }
 
 // ------------------------------------------------------------
