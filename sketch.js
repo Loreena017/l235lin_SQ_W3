@@ -261,7 +261,7 @@ let groundY;
 function preload() {
   //load game background image
   kingdomBackground = loadImage("assets/images/fantasybackground.jpg");
-  arena = loadImage("assets/images/arena.png");
+  arena = loadImage("assets/images/arena.jpg");
 
   // Load all 9 punch sounds into an array
   // A random one will be picked each time a punch lands
